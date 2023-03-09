@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Profile badge](https://www.codewars.com/users/gigabyte1511/badges/large)](https://www.codewars.com/users/gigabyte1511)
+[![Profile badge](https://www.codewars.com/users/gigabyte1511/badges/small)](https://www.codewars.com/users/gigabyte1511)
 
 <!--
 **gigabyte1511/gigabyte1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
